@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-06-11 12:03+0530\n"
+"PO-Revision-Date: 2018-06-11 12:06+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_attr_e;_nx;_nx_noop;esc_html__;"
+"esc_html_x;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-xa-woocommerce-membership-admin.php:110
+msgid "Access allowed"
+msgstr "Acceso permitido"
+
+#: admin/class-xa-woocommerce-membership-admin.php:143
+#: admin/class-xa-woocommerce-membership-admin.php:295
+#: admin/class-xa-woocommerce-membership-admin.php:448
+msgid "Members"
+msgstr "Miembros"
+
+#: admin/class-xa-woocommerce-membership-admin.php:144
+msgid "Support"
+msgstr "Soporte"
+
+#: admin/class-xa-woocommerce-membership-admin.php:145
+msgid "Review"
+msgstr "de conducta"
+
+#: admin/class-xa-woocommerce-membership-admin.php:191
+msgid "WebToffee Membership Plans"
+msgstr "WebToffee planes de membresía"
+
+#: admin/class-xa-woocommerce-membership-admin.php:192
+msgid "WebToffee Membership Plan"
+msgstr "WebToffee Plan de membresía"
+
+#: admin/class-xa-woocommerce-membership-admin.php:193
+msgid "WebToffee Memberships"
+msgstr "Pertenencias WebToffee"
+
+#: admin/class-xa-woocommerce-membership-admin.php:194
+msgid "Add Membership Plan"
+msgstr "Agregar Plan de membresía"
+
+#: admin/class-xa-woocommerce-membership-admin.php:195
+msgid "Add New Membership Plan"
+msgstr "Agregar Nuevo Plan De Membresia"
+
+#: admin/class-xa-woocommerce-membership-admin.php:196
+#: admin/class-xa-woocommerce-membership-admin.php:230
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/class-xa-woocommerce-membership-admin.php:197
+msgid "Edit Membership Plan"
+msgstr "Editar Plan de Membresia"
+
+#: admin/class-xa-woocommerce-membership-admin.php:198
+msgid "New Membership Plan"
+msgstr "Nuevo Plan De Membresía"
+
+#: admin/class-xa-woocommerce-membership-admin.php:199
+msgid "View Membership Plans"
+msgstr "Ver planes de Membresia"
+
+#: admin/class-xa-woocommerce-membership-admin.php:200
+msgid "View Membership Plan"
+msgstr "Ver plan de Membresia"
+
+#: admin/class-xa-woocommerce-membership-admin.php:201
+msgid "Search Membership Plans"
+msgstr "Buscar planes de Membresia"
+
+#: admin/class-xa-woocommerce-membership-admin.php:202
+msgid "No Membership Plans found"
+msgstr "No se encontraron planes de membresias"
+
+#: admin/class-xa-woocommerce-membership-admin.php:203
+msgid "No Membership Plans found in trash"
+msgstr "No se encontraron planes de membresias en la papelera"
+
+#: admin/class-xa-woocommerce-membership-admin.php:205
+msgid "You can add new Membership Plans here."
+msgstr "Usted puede agregar nuevos planes de membresía aquí."
+
+#: admin/class-xa-woocommerce-membership-admin.php:225
+msgid "WebToffe Members"
+msgstr "WebToffe miembros"
+
+#: admin/class-xa-woocommerce-membership-admin.php:226
+msgid "WebToffe User Membership"
+msgstr "Membresía de usuario WebToffe"
+
+#: admin/class-xa-woocommerce-membership-admin.php:227
+msgid "WebToffe Memberships"
+msgstr "Membresías de WebToffe"
+
+#: admin/class-xa-woocommerce-membership-admin.php:228
+msgid "Add Member"
+msgstr "Añadir Miembro"
+
+#: admin/class-xa-woocommerce-membership-admin.php:229
+msgid "Add New User Membership"
+msgstr "Añadir nuevo usuario de membresia"
+
+#: admin/class-xa-woocommerce-membership-admin.php:231
+msgid "Edit User Membership"
+msgstr "Editar membresía de usuario"
+
+#: admin/class-xa-woocommerce-membership-admin.php:232
+msgid "New User Membership"
+msgstr "Nueva membresía de usuario"
+
+#: admin/class-xa-woocommerce-membership-admin.php:233
+msgid "View User Memberships"
+msgstr "Ver membresías de usuarios"
+
+#: admin/class-xa-woocommerce-membership-admin.php:234
+msgid "View User Membership"
+msgstr "Ver membresía de usuario"
+
+#: admin/class-xa-woocommerce-membership-admin.php:235
+msgid "Search Members"
+msgstr "Buscar miembros"
+
+#: admin/class-xa-woocommerce-membership-admin.php:236
+msgid "No User Memberships found"
+msgstr "No se encontraron membresías de usuarios"
+
+#: admin/class-xa-woocommerce-membership-admin.php:237
+msgid "No User Memberships found in trash"
+msgstr "No se han encontrado membresías de usuario en la Papelera"
+
+#: admin/class-xa-woocommerce-membership-admin.php:239
+msgid "You can add new User Memberships here."
+msgstr "Puede agregar nuevas membresías de usuario aquí."
+
+#: admin/class-xa-woocommerce-membership-admin.php:299
+msgid "Membership Plans"
+msgstr "Planes de membresía"
+
+#: admin/class-xa-woocommerce-membership-admin.php:342
+msgid "Membership Plan Data"
+msgstr "Datos del Plan de membresía"
+
+#: admin/class-xa-woocommerce-membership-admin.php:361
+msgid "General"
+msgstr "Generalidades"
+
+#: admin/class-xa-woocommerce-membership-admin.php:447
+msgid "Product"
+msgstr "Producto"
+
+#: admin/class-xa-woocommerce-membership-admin.php:466
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+#: admin/class-xa-woocommerce-membership-admin.php:472
+msgid "Purchase"
+msgstr "Comprar"
+
+#: admin/class-xa-woocommerce-membership-admin.php:482
+msgid "View Members"
+msgstr "Ver Miembros"
+
+#: admin/class-xa-woocommerce-membership-admin.php:506
+msgid "User Membership Data"
+msgstr "Datos de Membresía del Usuario"
+
+#: admin/class-xa-woocommerce-membership-admin.php:591
+msgid "Membership Details"
+msgstr "Fecha de caducidad del plan"
+
+#: admin/class-xa-woocommerce-membership-admin.php:610
+msgid "Plan:"
+msgstr "Plan:"
+
+#: admin/class-xa-woocommerce-membership-admin.php:623
+msgid "Status:"
+msgstr "Estado:"
+
+#: admin/class-xa-woocommerce-membership-admin.php:629
+msgid "YYYY-MM-DD"
+msgstr "AAAA-MM-DD"
+
+#: admin/class-xa-woocommerce-membership-admin.php:644
+msgid "Member since:"
+msgstr "Miembro desde:"
+
+#: admin/class-xa-woocommerce-membership-admin.php:665
+msgid "Expires:"
+msgstr "Vence:"
+
+#: admin/class-xa-woocommerce-membership-admin.php:672
+msgid "Customer:"
+msgstr "Cliente:"
+
+#: admin/class-xa-woocommerce-membership-admin.php:681
+#, php-format
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: admin/class-xa-woocommerce-membership-admin.php:688
+msgid "Search users"
+msgstr "Buscar usuarios"
+
+#: admin/class-xa-woocommerce-membership-admin.php:841
+msgid "Name"
+msgstr "Nombre"
+
+#: admin/class-xa-woocommerce-membership-admin.php:842
+msgid "Email"
+msgstr "Email"
+
+#: admin/class-xa-woocommerce-membership-admin.php:843
+msgid "Plan"
+msgstr "Plan"
+
+#: admin/class-xa-woocommerce-membership-admin.php:844
+msgid "Status"
+msgstr "Estado"
+
+#: admin/class-xa-woocommerce-membership-admin.php:845
+msgid "Member since"
+msgstr "Miembro desde"
+
+#: admin/class-xa-woocommerce-membership-admin.php:883
+msgid "Trash"
+msgstr "Papelera"
+
+#: admin/templates/metabox/content_access_restriction.php:30
+msgid "Everyone"
+msgstr "Todos"
+
+#: admin/templates/metabox/content_access_restriction.php:31
+msgid "All Members"
+msgstr "Todos los miembros"
+
+#: includes/class-hf-membership-uninstall-feedback.php:19
+msgid "I couldn't understand how to make it work"
+msgstr "No pudé entender cómo hacer que funcione"
+
+#: includes/class-hf-membership-uninstall-feedback.php:21
+msgid "Would you like us to assist you?"
+msgstr "¿Deseas asistencia?"
+
+#: includes/class-hf-membership-uninstall-feedback.php:25
+msgid "I found a better plugin"
+msgstr "Encontré un mejor plugin"
+
+#: includes/class-hf-membership-uninstall-feedback.php:27
+msgid "Which plugin?"
+msgstr "¿Cuál plugin?"
+
+#: includes/class-hf-membership-uninstall-feedback.php:31
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+"El plugin es bueno, pero necesito características específicas que no tienen"
+
+#: includes/class-hf-membership-uninstall-feedback.php:33
+msgid "Could you tell us more about that feature?"
+msgstr "¿Podrías decirnos más acerca de esa característica?"
+
+#: includes/class-hf-membership-uninstall-feedback.php:37
+msgid "The plugin is not working"
+msgstr "El plugin no está funcionando"
+
+#: includes/class-hf-membership-uninstall-feedback.php:39
+msgid "Could you tell us a bit more whats not working?"
+msgstr "¿Podrías decirnos qué no funciona?"
+
+#: includes/class-hf-membership-uninstall-feedback.php:43
+msgid "It's not what I was looking for"
+msgstr "No es lo que estaba buscando"
+
+#: includes/class-hf-membership-uninstall-feedback.php:49
+msgid "The plugin didn't work as expected"
+msgstr "El plugin no funciona como esperaba"
+
+#: includes/class-hf-membership-uninstall-feedback.php:51
+msgid "What did you expect?"
+msgstr "¿Qué esperabas?"
+
+#: includes/class-hf-membership-uninstall-feedback.php:55
+msgid "Other"
+msgstr "Otra"
+
+#: includes/class-hf-membership-uninstall-feedback.php:57
+msgid "Could you tell us a bit more?"
+msgstr "¿Podrías contarnos un poco más?"
+
+#: includes/class-hf-membership-uninstall-feedback.php:75
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Si tienes un momento, déjanos saber por qué has desactivado el plugin:"
+
+#: includes/class-hf-membership-uninstall-feedback.php:87
+msgid "I rather wouldn't say"
+msgstr "No tengo más que decir/añadir"
+
+#: includes/class-hf-membership-uninstall-feedback.php:88
+msgid "Submit & Deactivate"
+msgstr "Enviar y Desactivar"
+
+#: includes/class-hf-membership-uninstall-feedback.php:89
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/class-xa-woocommerce-membership-plans.php:60
+msgid "Day(s)"
+msgstr "Día(s)"
+
+#: includes/class-xa-woocommerce-membership-plans.php:61
+msgid "Week(s)"
+msgstr "Semana(s)"
+
+#: includes/class-xa-woocommerce-membership-plans.php:62
+msgid "Month(s)"
+msgstr "Mes(es)"
+
+#: includes/class-xa-woocommerce-membership-plans.php:63
+msgid "Year(s)"
+msgstr "Año(s)"
+
+#: includes/class-xa-woocommerce-membership-plans.php:80
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/class-xa-woocommerce-membership-plans.php:91
+msgid "Grant access on"
+msgstr "Conceder acceso"
+
+#: includes/class-xa-woocommerce-membership-plans.php:95
+msgid "product(s) purchase"
+msgstr "Producto(s) de compra"
+
+#: includes/class-xa-woocommerce-membership-plans.php:103
+msgid "Search for a product&hellip;"
+msgstr "Buscar por un producto&hellip;"
+
+#: includes/class-xa-woocommerce-membership-plans.php:112
+msgid "Leave empty to only allow members you manually assign."
+msgstr "Deje vacío para permitir sólo a los miembros que asignes manualmente."
+
+#: includes/class-xa-woocommerce-membership-plans.php:169
+#, php-format
+msgid "%s (inactive)"
+msgstr "%s (inactiva)"
+
+#: includes/class-xa-woocommerce-user-membership.php:479
+msgid "Membership cancelled."
+msgstr "Membresía cancelada."
+
+#: includes/class-xa-woocommerce-user-membership.php:495
+msgid "Membership expired."
+msgstr "Membresia ha expirado."
+
+#: includes/class-xa-woocommerce-user-membership.php:506
+#: includes/class-xa-woocommerce-user-memberships.php:496
+msgid "Active"
+msgstr "Activo"
+
+#: includes/class-xa-woocommerce-user-membership.php:510
+#: includes/class-xa-woocommerce-user-memberships.php:500
+msgid "Pending Cancellation"
+msgstr "Cancelación Pendiente"
+
+#: includes/class-xa-woocommerce-user-membership.php:514
+#: includes/class-xa-woocommerce-user-memberships.php:504
+msgid "Expired"
+msgstr "Caducado"
+
+#: includes/class-xa-woocommerce-user-membership.php:518
+#: includes/class-xa-woocommerce-user-memberships.php:508
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#: includes/class-xa-woocommerce-user-memberships.php:65
+#, php-format
+msgid ""
+"Cannot create User Membership: Membership Plan with ID %d does not exist"
+msgstr ""
+"No se puede crear Suscripción de Usuario: El plan de suscripción con el ID "
+"%d no existe"
+
+#: includes/class-xa-woocommerce-user-memberships.php:81
+#, php-format
+msgid "Cannot create User Membership: %s"
+msgstr "No se puede crear Membresía de Usuario: %s"
+
+#: includes/class-xa-woocommerce-user-memberships.php:470
+msgid "Membership cancelled because the associated order was trashed."
+msgstr "Suscripción cancelada porque la orden asociada se eliminó."
+
+#: includes/class-xa-woocommerce-user-memberships.php:475
+msgid "Membership cancelled because the associated order was refunded."
+msgstr "Suscripción cancelada porque el pedido asociado fue devuelto."

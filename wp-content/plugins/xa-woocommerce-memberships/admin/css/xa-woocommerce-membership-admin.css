@@ -1,0 +1,47 @@
+.post-type-hf_membership_plan .wrap+.wrap{
+    margin-top:23px
+}
+
+.hf-memberships#hf-memberships-membership-plan-data ul.wc-tabs li a:before,.hf-memberships#hf-memberships-product-memberships-data ul.wc-tabs li a:before{
+    font-family:Dashicons;
+    content:'\f107'
+}
+
+.hf-memberships .woocommerce_options_panel{
+    float:left;
+    width:80%
+}
+.hf-memberships .woocommerce_options_panel .wp-editor-wrap{
+    padding:0 12px;
+    margin:12px 0
+}
+.hf-memberships .woocommerce_options_panel .table-wrap{
+    padding:0 12px;
+    margin:12px 0
+}
+.hf-memberships table.rules{
+    table-layout:fixed;
+    width:100%
+}
+.hf-memberships table.rules p.form-field{
+    padding:0 0 0 150px;
+    line-height:24px
+}
+.hf-memberships table.rules .objects-column{
+    overflow:visible
+}
+
+.hf-memberships table.rules .rule-control-group{
+    line-height:27px;
+    margin-right:0.5em
+}
+.hf-memberships table.rules .rule-control-group>input,.wc-memberships table.rules .rule-control-group>select,.wc-memberships table.rules .rule-control-group>label{
+    float:none !important;
+    vertical-align:middle
+}
+
+
+.hf-wc-customer-search .select2-container{
+    width: 50% !important;
+}
+#hforce-restrict-access-metabox .select2-container{width: 100% !important;}
